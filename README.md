@@ -8,7 +8,7 @@
 A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
 <!--<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn-->
-</a>, +2348124746546.
+</a>, +2347087035189.
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
