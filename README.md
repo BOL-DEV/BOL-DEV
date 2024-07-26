@@ -4,7 +4,7 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Afolabi Quadri Olasunkanmi (afolabi-ola) ✨,
+### I am ✨ Abdulakeem Habeeb Bolaji (BOL-DEV) ✨,
 A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
 <!--<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn-->
@@ -46,8 +46,8 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
  
 ## &#x1f4c8; GitHub Stats (Current Account)
 
-<a href="https://github.com/afolabi-ola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afolabi-ola&count_private=true&show_icons=true&theme=tokyonight" alt="Afolabi Quadri Olasunkanmi's GitHub Stats" />
+<a href="https://github.com/BOL-DEV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&count_private=true&show_icons=true&theme=tokyonight" alt="Abdulakeem Habeeb Bolaji's GitHub Stats" />
 </a>
 
 #
