@@ -52,8 +52,8 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 
 #
 
-<a href="https://github.com/afolabi-ola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afolabi-ola&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
+<a href="https://github.com/BOL-DEV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
 #
@@ -75,8 +75,8 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 
 
 
-<a href="https://github.com/afolabi-ola">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=afolabi-ola&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
+<a href="https://github.com/BOL-DEV">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BOL-DEV&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  
 
 <!-- links to social media icons -->
