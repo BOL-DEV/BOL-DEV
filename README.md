@@ -18,7 +18,7 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=NeXT&logoColor=white&color=2bbc8a)-->
+![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=NeXT&logoColor=white&color=2bbc8a)
 <!--![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)-->
 <!--![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
