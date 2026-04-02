@@ -102,7 +102,7 @@ To build a scalable ticketing infrastructure that can power events from campus l
 ## 📫 Let's Connect
 
 * GitHub: https://github.com/BOL-DEV
-* Email: your-email-here
+* Email: abdulakeemhabeeb123@gmail.com
 * Phone: +2347087035189
 
 ---
