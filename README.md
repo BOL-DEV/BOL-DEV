@@ -80,17 +80,9 @@ To build a scalable ticketing infrastructure that can power events from campus l
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=BOL-DEV&theme=tokyonight&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://github.com/BOL-DEV">
+  <img align="center" src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a>
 
 ---
 
@@ -122,24 +114,4 @@ To build a scalable ticketing infrastructure that can power events from campus l
 </p>
 
 
-r=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
- -->
- 
-## &#x1f4c8; GitHub Stats (Current Account)
-
-<a href="https://github.com/BOL-DEV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&count_private=true&show_icons=true&theme=tokyonight" alt="Abdulakeem Habeeb Bolaji's GitHub Stats" />
-</a>
-
-#
-
-<a href="https://github.com/BOL-DEV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
-</a>
-
-#
