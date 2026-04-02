@@ -1,42 +1,128 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- ================= HEADER ================= -->
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
+<h1 align="center">Hi 👋, I'm Abdulakeem Habeeb Bolaji (BOL)</h1>
 
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
+<p align="center">
+  <b>Fullstack Engineer • Building Scalable Products • Future Tech Leader</b>
+</p>
 
-### I am ✨ Abdulakeem Habeeb Bolaji (BOL-DEV) ✨,
-A dynamic and steadfast Front-End Engineer with more than three years (4yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
-<!--<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn-->
-</a>, +2347087035189.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Building+EventFlow+%F0%9F%9A%80;Next.js+%7C+TypeScript+%7C+Node.js;I+build+real+products+that+scale" />
+</p>
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=NeXT&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)-->
-<!--![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-chakraui&logoColor=white&color=2bbc8a)-->
+---
+
+<!-- ================= ABOUT ================= -->
+
+## 🚀 About Me
+
+I’m a **fullstack engineer** focused on building real-world, scalable products — not just projects.
+
+Currently building **EventFlow**, a white-label event ticketing and verification platform designed to handle:
+
+* ticket sales
+* payment processing (Paystack)
+* QR-based validation systems
+* multi-organizer architecture
+
+💡 I don’t just write code — I build systems that solve real problems.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚙️ Tech Stack
+
+### 🧠 Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+
+### 🧰 Tools & Systems
+
+![Zod](https://img.shields.io/badge/Zod-000?style=for-the-badge)
+![Paystack](https://img.shields.io/badge/Paystack-000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
+
+---
+
+<!-- ================= PROJECT ================= -->
+
+## 🚀 Featured Project
+
+### 🔥 Zentry (In Progress)
+
+A white-label event ticketing platform built for organizers.
+
+#### 🧩 Core Features
+
+* Multi-organizer architecture (each organizer has their own system)
+* Event & ticket type management (VIP, Regular, Early Bird)
+* Payment integration with split payments
+* Unique ticket codes + QR validation system
+* Organizer dashboard (sales tracking, ticket analytics, verification)
+
+#### 🎯 Vision
+
+To build a scalable ticketing infrastructure that can power events from campus level to global scale.
+
+---
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=BOL-DEV&theme=tokyonight&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= VALUE ================= -->
+
+## 💼 What I Bring
+
+✔️ I build production-ready applications
+✔️ I understand both frontend and backend systems
+✔️ I design scalable architectures (not just UI)
+✔️ I integrate real-world systems (payments, verification, APIs)
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+## 📫 Let's Connect
+
+* GitHub: https://github.com/BOL-DEV
+* Email: your-email-here
+* Phone: +2347087035189
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  ⚡ Building. Learning. Scaling. No excuses.
+</p>
 
 
-<!-- ## 🔧 Technologies & Tools
-![Chakra-ui](https://img.shields.io/badge/Tools-chakra-%234ED1C5.svg?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Vs-code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+r=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
@@ -57,53 +143,3 @@ A dynamic and steadfast Front-End Engineer with more than three years (4yrs) of 
 </a>
 
 #
-
-<!-- <a href="https://github.com/chineduogada/react-rapid-carousel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dracula" />
-</a>
-
-
-<a href="https://github.com/domchu/newspaper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=newspaper&theme=dark" />
-</a>   
-
---
-
-<a href="https://github.com/domchu/sr-react-dev-fulfil-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domchu&repo=sr-react-dev-fulfil-exercise&theme=dark" />
-</a>  -->
-
-
-
-<a href="https://github.com/BOL-DEV">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BOL-DEV&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) -->
-
-<!-- icons without padding -->
-<!-- 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
-
-
-<!-- links to your social media accounts -->
-
-<!-- [1]: https://twitter.com/OnahOchu
-[2]: https://github.com/domchu
-[3]: https://www.linkedin.com/in/dominic-ochu/ -->
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
