@@ -47,27 +47,6 @@ I’m a **fullstack engineer** focused on building real-world, scalable products
 
 ---
 
-<!-- ================= PROJECT ================= -->
-
-## 🚀 Featured Project
-
-### 🔥 Zentry (In Progress)
-
-A white-label event ticketing platform built for organizers.
-
-#### 🧩 Core Features
-
-* Multi-organizer architecture (each organizer has their own system)
-* Event & ticket type management (VIP, Regular, Early Bird)
-* Payment integration with split payments
-* Unique ticket codes + QR validation system
-* Organizer dashboard (sales tracking, ticket analytics, verification)
-
-#### 🎯 Vision
-
-To build a scalable ticketing infrastructure that can power events from campus level to global scale.
-
----
 
 <!-- ================= STATS ================= -->
 
