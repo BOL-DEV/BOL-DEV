@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I’m a **fullstack engineer** focused on building real-world, scalable products — not just projects.
+I’m a **fullstack engineer** focused on building real-world, scalable products, not just projects.
 
 💡 I don’t just write code — I build systems that solve real problems.
 
