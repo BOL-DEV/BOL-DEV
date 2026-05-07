@@ -67,17 +67,7 @@ I’m a **fullstack engineer** focused on building real-world, scalable products
 ✔️ I design scalable architectures (not just UI)
 ✔️ I integrate real-world systems (payments, verification, APIs)
 
----
 
-<!-- ================= CONTACT ================= -->
-
-## 📫 Let's Connect
-
-* GitHub: https://github.com/BOL-DEV
-* Email: abdulakeemhabeeb123@gmail.com
-* Phone: +2347087035189
-
----
 
 <!-- ================= FOOTER ================= -->
 
