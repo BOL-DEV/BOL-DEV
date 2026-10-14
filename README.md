@@ -47,14 +47,34 @@ I’m a **fullstack engineer** focused on building real-world, scalable products
 
 ---
 
-
-<!-- ================= STATS ================= -->
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/BOL-DEV">
-  <img align="center" src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+---
+
+<!-- ================= GITHUB STREAK ================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BOL-DEV&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -62,18 +82,27 @@ I’m a **fullstack engineer** focused on building real-world, scalable products
 
 ## 💼 What I Bring
 
-✔️ I build production-ready applications
-✔️ I understand both frontend and backend systems
-✔️ I design scalable architectures (not just UI)
-✔️ I integrate real-world systems (payments, verification, APIs)
+✔️ I build production-ready applications  
+✔️ I understand both frontend and backend systems  
+✔️ I design scalable architectures, not just UI  
+✔️ I integrate real-world systems — payments, verification, APIs  
+✔️ I turn ideas into working products  
 
+---
 
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🎯 Currently Building
+
+- 🚀 **Zentry** — Organizer-focused ticketing infrastructure
+- 🤖 **AI-powered applications**
+- 🏗️ **Construction technology**
+- 🌐 **Scalable fullstack systems**
+
+---
 
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
   ⚡ Building. Learning. Scaling. No excuses.
 </p>
-
-
-
