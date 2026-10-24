@@ -61,8 +61,6 @@ I’m not interested in just writing code. I want to understand how things work,
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=radical&langs_count=8" />
 
-<br/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
