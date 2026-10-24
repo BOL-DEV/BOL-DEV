@@ -57,11 +57,13 @@ I’m not interested in just writing code. I want to understand how things work,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api?username=BOL-DEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=radical&langs_count=8" />
+<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOL-DEV&layout=compact&theme=radical&langs_count=8" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" />
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=BOL-DEV&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
