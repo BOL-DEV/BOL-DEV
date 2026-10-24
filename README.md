@@ -90,16 +90,7 @@ I’m a **fullstack engineer** focused on building real-world, scalable products
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
 
-## 🎯 Currently Building
-
-- 🚀 **Zentry** — Organizer-focused ticketing infrastructure
-- 🤖 **AI-powered applications**
-- 🏗️ **Construction technology**
-- 🌐 **Scalable fullstack systems**
-
----
 
 <!-- ================= FOOTER ================= -->
 
